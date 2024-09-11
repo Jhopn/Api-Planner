@@ -1,4 +1,14 @@
+
 # Api Planner
+
+
+API para a criação de viajens com os amigos, incluindo atividades e links.
+
+  [![My Skills](https://skillicons.dev/icons?i=java,maven,spring)](https://skillicons.dev)
+
+A implementação também utilizou o H2 database para a persistência dos dados e os testes da API.
+
+Mapeamento do Banco de dados: 
 
 ```mermaid
 erDiagram
