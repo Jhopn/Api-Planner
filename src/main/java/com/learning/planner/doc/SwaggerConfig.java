@@ -17,7 +17,6 @@ public class SwaggerConfig {
                         .description("API para a criação de viajens com os amigos, incluindo atividades e links.")
                         .version("1.0")
                         .termsOfService("Termo de uso: Open Source")
-                        .license(new io.swagger.v3.oas.models.info.License().name("Licença - Sua Empresa").url("https://github.com/Jhopn"))
                         .contact(new Contact()
                                 .name("Jhoão")
                                 .url("https://github.com/Jhopn")
